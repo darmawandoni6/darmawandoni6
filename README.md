@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, My name is Doni darmawan, I'm a Full Stack Developer that specialized in the Node JS Environtment, especially MERN Stack, I really like learn new things and really love to code :) I'm currently focus on developing Front end using React JS. Have experience 2+ years Front End web developer and intensive bootcamp for 8 weeks in Dumbways.id.  Fell free to ask and contact me. Best Regards.
+Hi, My name is [Doni darmawan](bit.ly/darmawandoni6), I'm a Full Stack Developer that specialized in the Node JS Environtment, especially MERN Stack, I really like learn new things and really love to code :) I'm currently focus on developing Front end using React JS. Have experience 2+ years Front End web developer and intensive bootcamp for 8 weeks in Dumbways.id.  Fell free to ask and contact me. Best Regards.
 
 
 ## 🌐 Socials:
